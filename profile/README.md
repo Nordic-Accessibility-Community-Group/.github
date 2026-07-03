@@ -19,6 +19,8 @@ The initiative started from a discussion about how to understand what is include
 
 ## Contributing
 
+You can become a member through the [W3C Nordic Accessibility Community Group page](https://www.w3.org/community/nordic-accessibility/). Membership also gives you the option to join the group's virtual sessions.
+
 - [Contributing guidelines](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/CONTRIBUTING.md)
 - [Disclaimer](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/DISCLAIMER.md)
 - [Code of conduct](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/CODE_OF_CONDUCT.md)

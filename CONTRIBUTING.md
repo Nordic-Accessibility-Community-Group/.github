@@ -13,6 +13,7 @@ You can contribute by:
 - opening an issue with a question, correction, or suggested source
 - opening a pull request with a concrete edit
 - joining discussion through the [W3C community group](https://www.w3.org/community/nordic-accessibility/) when a topic needs wider input
+- becoming a member through the [W3C Nordic Accessibility Community Group page](https://www.w3.org/community/nordic-accessibility/); membership also gives you the option to join the group's virtual sessions
 
 ## What makes a good contribution
 
