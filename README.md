@@ -2,11 +2,12 @@
 
 Shared GitHub configuration and organization profile for the Nordic Accessibility Community Group.
 
-This repository contains the public organization profile.
+This repository contains the public organization profile and shared organization-level files.
 
-It can also be used for shared organization-level files such as:
+Current shared files:
 
-- shared issue and pull request templates
-- community health files
+- [`CONTRIBUTING.md`](CONTRIBUTING.md): contribution guidance for issues, pull requests, sources, and wording
+- [`DISCLAIMER.md`](DISCLAIMER.md): limits and context for community-maintained information
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md): shared expectations for respectful, non-promotional participation
 
 The public profile is maintained in [`profile/README.md`](profile/README.md).
