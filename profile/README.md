@@ -1,4 +1,4 @@
-# Nordic Accessibility Community Group
+# [Nordic Accessibility Community Group](https://www.w3.org/community/nordic-accessibility/)
 
 We are a Nordic community group working on digital accessibility, accessibility standards, and practical implementation of European accessibility requirements.
 

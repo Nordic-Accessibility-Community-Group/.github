@@ -1,6 +1,6 @@
 # .github
 
-Shared GitHub configuration and organization profile for the Nordic Accessibility Community Group.
+Shared GitHub configuration and organization profile for the [Nordic Accessibility Community Group](https://www.w3.org/community/nordic-accessibility/).
 
 This repository contains the public organization profile and shared organization-level files.
 
