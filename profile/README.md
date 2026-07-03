@@ -7,7 +7,7 @@ This GitHub organization is used for shared resources, open notes, templates, an
 ## Repositories
 
 - [`working-with-EN-301-549`](https://github.com/Nordic-Accessibility-Community-Group/working-with-EN-301-549): guidance, templates, and country tracking related to EN 301 549 and the European Accessibility Act.
-- [`accessibility-conferences`](https://github.com/Nordic-Accessibility-Community-Group/accessibility-conferences): accessibility conferences and events.
+- [`accessibility-conferences`](https://github.com/Nordic-Accessibility-Community-Group/accessibility-conferences): accessibility conferences and other learning opportunities for staying up to date.
 
 ## Community
 

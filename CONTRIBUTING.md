@@ -2,7 +2,7 @@
 
 Thank you for helping improve the Nordic Accessibility Community Group resources.
 
-This GitHub organization is used for practical, community-maintained information about digital accessibility, accessibility standards, European accessibility requirements, monitoring agencies, templates, events, and related resources.
+This GitHub organization is used for practical, community-maintained information about digital accessibility, accessibility standards, European accessibility requirements, monitoring agencies, templates, learning opportunities, and resources for staying up to date.
 
 Small contributions are welcome. A missing link, a corrected authority name, or clearer wording can be useful.
 
