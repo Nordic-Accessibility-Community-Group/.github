@@ -27,6 +27,6 @@ This code of conduct complements the [W3C Code of Ethics and Professional Conduc
 
 ## If something happens
 
-If you experience or notice behavior that does not fit these expectations, contact the repository maintainers or the W3C Community Group chairs through the group's usual channels.
+If you experience or notice behavior that does not fit these expectations, contact the repository maintainers or the chairs listed on the [W3C Nordic Accessibility Community Group page](https://www.w3.org/community/nordic-accessibility/).
 
 Maintainers or chairs may ask someone to change their behavior, edit or remove comments, close issues or pull requests, or take other steps needed to keep the space useful and respectful.
