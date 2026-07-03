@@ -19,7 +19,7 @@ The initiative started from a discussion about how to understand what is include
 
 ## Contributing
 
-Everyone is welcome to contribute through GitHub issues and pull requests. To get more involved and stay better informed, become a member through the [W3C Nordic Accessibility Community Group page](https://www.w3.org/community/nordic-accessibility/). Membership also gives you the option to join the group's virtual sessions.
+Everyone is welcome to contribute through GitHub issues and pull requests. To get more involved and stay better informed, consider becoming a member through the [W3C Nordic Accessibility Community Group page](https://www.w3.org/community/nordic-accessibility/). Membership also gives you the option to join the group's virtual sessions.
 
 - [Contributing guidelines](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/CONTRIBUTING.md)
 - [Disclaimer](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/DISCLAIMER.md)
