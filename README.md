@@ -1,4 +1,13 @@
-# Nordic Accessibility Community Group
-This organisation is a part of the W3C Community Group.
+# .github
 
-Initiative started from the discussion about having the same view of what is included and how to test the EN-standard and WCAG. [Meeting notes from 2024-11-07](https://www.w3.org/community/nordic-accessibility/2024/11/07/en-301-549-vs-wcag-gaps-and-bridges-study-group/)
+Shared GitHub configuration and organization profile for the [Nordic Accessibility Community Group](https://www.w3.org/community/nordic-accessibility/).
+
+This repository contains the public organization profile and shared organization-level files.
+
+Current shared files:
+
+- [`CONTRIBUTING.md`](CONTRIBUTING.md): contribution guidance for issues, pull requests, sources, and wording
+- [`DISCLAIMER.md`](DISCLAIMER.md): limits and context for community-maintained information
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md): shared expectations for respectful, non-promotional participation
+
+The public profile is maintained in [`profile/README.md`](profile/README.md).
