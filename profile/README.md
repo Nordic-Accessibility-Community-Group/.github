@@ -6,8 +6,10 @@ This GitHub organization is used for shared resources, open notes, templates, an
 
 ## Repositories
 
-- [`en-301-549-resources-and-eaa-monitoring`](https://github.com/Nordic-Accessibility-Community-Group/en-301-549-resources-and-eaa-monitoring): guidance, templates, and country tracking related to EN 301 549 and the European Accessibility Act.
-- [`accessibility-conferences`](https://github.com/Nordic-Accessibility-Community-Group/accessibility-conferences): accessibility conferences and other learning opportunities for staying up to date.
+| Repository | What you'll find |
+| --- | --- |
+| [`en-301-549-resources-and-eaa-monitoring`](https://github.com/Nordic-Accessibility-Community-Group/en-301-549-resources-and-eaa-monitoring) | Guidance, templates, and country tracking related to EN 301 549 and the European Accessibility Act. |
+| [`accessibility-conferences`](https://github.com/Nordic-Accessibility-Community-Group/accessibility-conferences) | Accessibility conferences and other learning opportunities for staying up to date. |
 
 ## Community
 
