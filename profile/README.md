@@ -26,3 +26,4 @@ Everyone is welcome to contribute through GitHub issues and pull requests. To ge
 - [Contributing guidelines](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/CONTRIBUTING.md)
 - [Disclaimer](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/DISCLAIMER.md)
 - [Code of conduct](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Accessibility statement](https://github.com/Nordic-Accessibility-Community-Group/.github/blob/main/accessibility.md)
